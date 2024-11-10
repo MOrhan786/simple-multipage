@@ -1,0 +1,38 @@
+.color{
+background-color:rgb(239, 234, 227);
+color: white;
+height: 750px;
+}
+.title{
+ font-size: xx-large;
+ background-color: rgb(158, 211, 213);
+ color: black;
+ text-align: center;
+
+}
+.p{
+ color: blue;
+ text-align: center;
+ margin-top: 6%;
+ font-size: x-large;
+
+}
+.li{
+    background-color: rgb(198, 174, 219);
+    color: crimson;
+    text-align: center;
+    margin-top: 10%;
+    font-size: large;  
+    margin-right: 30% ;
+    margin-left: 30% ;
+}
+.ul{
+    text-align: center;
+    color: green;
+    margin-top:8% ;
+ 
+ 
+  line-height:280%;
+
+
+}

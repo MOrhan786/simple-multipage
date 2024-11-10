@@ -1,0 +1,32 @@
+.div{
+  
+    background-color: gray;
+    color: black;  
+    text-align: center;
+    height: 750px;
+ 
+}
+.p{
+  
+  color: white;
+  font-size: large;
+  margin-top: 5%;
+  line-height: 2.8;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+
+   
+}
+.h1{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 50px;
+    font-size: large;
+    padding-top: 5px;
+   
+}
+.li{
+  margin-top: 10%;
+}
